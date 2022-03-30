@@ -3,7 +3,7 @@ title: My Project
 layout: page
 ---
 
-## This Waa the idea behind the project
+## This Was the idea behind the project
 
 I had an idea.
 
